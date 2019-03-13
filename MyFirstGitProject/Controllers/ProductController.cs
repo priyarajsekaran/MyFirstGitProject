@@ -11,7 +11,7 @@ namespace MyFirstGitProject.Controllers
         // GET: Product
         public ActionResult Index()
         {
-            Console.Write("hello");
+            //Console.Write("hello");
             return View();
         }
     }
